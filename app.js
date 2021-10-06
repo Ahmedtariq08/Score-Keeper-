@@ -1,3 +1,6 @@
+// this is going to be a git test
+print("hello there!");
+
 const p1 = {
     score: 0,
     button: document.querySelector('#p1Button'),
